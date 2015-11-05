@@ -13,6 +13,5 @@ using the geopy package, formatted them and printed them out. I didn't feel the 
 as it seemed like a redundant step. The coordinates are the important piece of data and more can be done with the coordinates. 
 
 I was looking into adding options for modes of travel. Geopy uses the Google Maps API, so I was going to use this to find the distances
-for other modes of transportation. I also thought about optimized travel. This problem is close to the traveling salesman problem, but not
-quite. I thought I could possibly use Dijkstra's shortest path algorithm to find the shortest path from each city to another, then search
-through these shortest paths to find the shortest overall path.
+for other modes of transportation. I also thought about optimized travel. Google's API also has a waypoints feature which Google will 
+optimize. This could be used for optimized traveling between cities. 
