@@ -1,0 +1,4 @@
+"Paris, France"
+"New York City, USA"
+"Nuuk, Greenland"
+"Portland, Oregon"
